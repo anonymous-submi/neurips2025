@@ -45,7 +45,7 @@ pip install torch
 python run_experiment.py
 ```
 
-- For single-run test (e.g., test policy `a`):
+- For single-run test:
 
 ```bash
 python soil_function.py
